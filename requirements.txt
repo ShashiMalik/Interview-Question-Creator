@@ -1,5 +1,6 @@
 setuptools
 langchain 
+langchain-openai
 langchain-community
 langchain-core
 openai
